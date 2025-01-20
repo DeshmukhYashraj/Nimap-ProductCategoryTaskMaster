@@ -1,4 +1,6 @@
 Product and Category Management API
+-----------------------------------
+
 This is a RESTful API developed using Spring Boot for managing products and categories. It provides CRUD operations for product categories, allowing users to perform basic database operations via HTTP requests.
 
 Features:-
