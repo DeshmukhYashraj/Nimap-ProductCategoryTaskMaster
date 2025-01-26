@@ -6,7 +6,7 @@ This is a RESTful API developed using Spring Boot for managing products and cate
 Features:-
 Category Management: Allows users to create, read, update, and delete categories.
 Product Management: Allows user to create, read, update, and delete product categories wise.
-Database Interaction: Uses JPA with H2 Database for storing and retrieving data.
+Database Interaction: Uses JPA with MySQL for storing and retrieving data.
 
 Technologies used:-
 Java: Programming language for the backend.
